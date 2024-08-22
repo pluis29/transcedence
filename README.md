@@ -1,6 +1,5 @@
 # Transcendence
 
-- [Transcendence](#transcendence)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
   - [Features](#features)
@@ -9,6 +8,12 @@
 ## Introduction
 
 Transcendence is a collaborative project developed by a team of four developers. It is a single-page application (SPA) that combines the classic Pong game with real-time chat functionality, a leaderboard, user profiles, and more.
+
+
+https://github.com/user-attachments/assets/3d04c656-3bb3-43ec-aac9-f01af291c07e
+
+
+
 
 ## Technologies
 
@@ -41,6 +46,7 @@ Inside the `Transcendence` folder, run:
    ```
    docker compose up
    ```
+After the container is up, you can access the site at `http://localhost:3000/`
 
 
 
